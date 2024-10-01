@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+### Day 0: Octobor 01, 2024 
+##### chapter JS Revisit
+##### 1 small hmtl,css,js project (50 project of travasmedia)
+
+**Today's Progress**: 
+
+
+
+
+
+
+
+
+
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+# 100 Days Of Code - Log
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
