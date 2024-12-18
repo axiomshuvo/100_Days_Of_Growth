@@ -4,7 +4,7 @@
 
 ##### chapter JS Revisit (JS*Revisit*/data_type.js)
 
-##### One small hmtl,css,js project (50 project of travasmedia) (Day*01/Project_01*[Expanding_Cards])
+[One small hmtl,css,js project (50 project of travasmedia)](Day*01/Project_01*[Expanding_Cards])
 
 **Today's Progress**:
 
