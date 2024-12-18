@@ -1,10 +1,10 @@
-# 100 Days Of Code - Log
+# 100 Days Of Growth - Log
 
 ### Day 0: Octobor 01, 2024
 
-##### chapter JS Revisit
+##### chapter JS Revisit (JS*Revisit*/data_type.js)
 
-##### One small hmtl,css,js project (50 project of travasmedia)
+##### One small hmtl,css,js project (50 project of travasmedia) (Day*01/Project_01*[Expanding_Cards])
 
 **Today's Progress**:
 
@@ -14,7 +14,7 @@
 
 #
 
-# 100 Days Of Code - Log
+# 100 Days Of Growth - Log
 
 ### Day 0: February 30, 2016 (Example 1)
 

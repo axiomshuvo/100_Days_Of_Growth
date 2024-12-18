@@ -23,7 +23,7 @@
 function name(parameter1,parameter2){
     //work to done
 }
-// ! now invoke the function
+// # now invoke the function
      name();
 
 
@@ -43,6 +43,8 @@ sleep("Andy","1.30pm");
 
 
 /*
+# Funcrion Return
+
 @ When JavaScript reaches a return statement, the function will stop executing.
 
 
@@ -93,8 +95,8 @@ function myFunction(a, b) {
 
 
 /* 
-  # As you see from the examples above, toCelsius refers to the function object,
-  # and toCelsius() refers to the function result.
+  ? As you see from the examples above, toCelsius refers to the function object,
+  ? and toCelsius() refers to the function result.
 */
 
 
