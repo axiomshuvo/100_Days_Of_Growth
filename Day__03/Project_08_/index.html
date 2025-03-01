@@ -11,10 +11,25 @@
       referrerpolicy="no-referrer"
     />
     <link rel="stylesheet" href="style.css" />
-    <title>My Project</title>
+    <title>Form Wave Input</title>
   </head>
   <body>
-    <h1>Project Starter</h1>
+    <div class="container">
+      <h1>Please Login</h1>
+      <form>
+        <div class="form-control">
+          <input type="text" name="email" id="" required />
+          <label for="email">Email</label>
+        </div>
+
+        <div class="form-control">
+          <input type="password" name="password" id="" required />
+          <label for="password">Password</label>
+        </div>
+        <button class="btn">Login</button>
+        <p class="text">Don't Have an Acoount? <a href="#">SignUp</a></p>
+      </form>
+    </div>
     <script src="main.js"></script>
   </body>
 </html>
