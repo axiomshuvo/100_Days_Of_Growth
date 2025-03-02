@@ -20,5 +20,5 @@ checkBoxes();
 
 
 // 
-// Learning this lib is cool
+// Learning this JS lib is cool
 // getBoundingClientRect
