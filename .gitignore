@@ -1,12 +1,132 @@
-# Ignore macOS system files
-.DS_Store
+# ==========================================================
+# Node.js Dependencies
+# ==========================================================
+node_modules/
+**/node_modules/
 
-# Ignore if have some design files
-*.sketch
-*.fig
-*.xd
-.prettierignore.DS_Store
-branch_structure.json
-temp_auto_push.bat
-temp_interactive_push.bat
-.gitignore
+# Package Managers
+.pnp
+.pnp.*
+.yarn/cache/
+.yarn/unplugged/
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnpm-store/
+
+# ==========================================================
+# Environment Variables & Secrets
+# ==========================================================
+.env
+.env.*
+!.env.example
+
+# Certificates & Private Keys
+*.pem
+*.key
+*.cert
+
+# ==========================================================
+# Next.js / React Build Output
+# ==========================================================
+.next/
+out/
+dist/
+build/
+
+# Turbopack / TurboRepo
+.turbo/
+
+# Bundler Caches
+.parcel-cache/
+.cache/
+
+# ==========================================================
+# Testing & Coverage
+# ==========================================================
+coverage/
+.nyc_output/
+
+# ==========================================================
+# TypeScript
+# ==========================================================
+*.tsbuildinfo
+next-env.d.ts
+
+# ==========================================================
+# Logs
+# ==========================================================
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ==========================================================
+# IDE & Editors
+# ==========================================================
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/tasks.json
+
+.idea/
+
+*.swp
+*.swo
+*~
+*.orig
+
+# ==========================================================
+# Operating System Files
+# ==========================================================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# ==========================================================
+# Python (Optional)
+# ==========================================================
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# ==========================================================
+# Databases & Temporary Files
+# ==========================================================
+*.sqlite
+*.sqlite3
+*.db
+
+tmp/
+temp/
+*.tmp
+
+# ==========================================================
+# Deployment
+# ==========================================================
+.vercel/
+.netlify/
+
+# ==========================================================
+# Local Uploads (if applicable)
+# ==========================================================
+uploads/
+public/uploads/
+
+# ==========================================================
+# Linter & Formatter Cache
+# ==========================================================
+.eslintcache
+.stylelintcache
+
+# ==========================================================
+# Miscellaneous
+# ==========================================================
+.fuse_hidden*
+.Spotlight-V100
+.Trashes
+._*
